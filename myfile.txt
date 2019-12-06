@@ -1,9 +1,3 @@
-Hello World!
-
-Editing directly from remote! (please don't do this)
-
-Hello from tiki
-
-Hello from origin
-
 Good night from origin
+
+
