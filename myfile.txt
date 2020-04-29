@@ -1,1 +1,3 @@
 Test fork
+
+Test squash
