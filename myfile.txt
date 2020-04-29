@@ -1,3 +1,7 @@
 Test fork
 
+Squash text 1
+
+Squash text 2
+
 Test squash
