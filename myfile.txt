@@ -1,3 +1,5 @@
 Test fork
 
 Test squash
+
+Add new text for squashing
