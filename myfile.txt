@@ -1,13 +1,1 @@
 Test fork
-
-<<<<<<< HEAD
-Test squash
-
-Add new text for squashing
-=======
-Squash text 1
-
-Squash text 2
-
-Test squash
->>>>>>> 205028c9e52d754e0eeb03733836957623ac8ad1
